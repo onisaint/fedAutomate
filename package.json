@@ -1,0 +1,29 @@
+{
+  "name": "test_nbs",
+  "version": "0.0.0",
+  "description": "first round",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "1"
+  ],
+  "author": "Madhu Kumar D S <madhudskumar@live.in>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-data": "^1.2.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-typescript": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "pug": "^2.0.0-rc.2",
+    "sass": "^1.0.0-beta.2",
+    "typescript": "^2.4.2"
+  }
+}
